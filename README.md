@@ -108,3 +108,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 #YOLOv8 #WeaponDetection #ComputerVision #DeepLearning #AI #Surveillance #Flask #RealTimeDetection #PublicSafety #SmartCity #Python #ntfy #GoogleColab #OpenCV #SecuritySystem
 
+![image](https://github.com/user-attachments/assets/102df664-bcbf-4ddd-8bce-3a4ec3ab8317)
+![image](https://github.com/user-attachments/assets/7bd4fc9c-cbdc-4b5e-a4c3-aa5f6016ab9c)
+![image](https://github.com/user-attachments/assets/39b712db-4d00-4535-8172-7584098f9ffc)
+![image](https://github.com/user-attachments/assets/de53eaa9-6352-43fb-afae-84fbd231ab01)
+![image](https://github.com/user-attachments/assets/ca121d33-3229-4990-9c2f-8b444a93b17d)
+![image](https://github.com/user-attachments/assets/cc951a86-661b-4ab7-94bc-cc52a601c1f0)
